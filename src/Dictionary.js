@@ -15,7 +15,12 @@ export default function Dictionary() {
   return (
     <div className="Dictionary" onSubmit={handleSubmit}>
       <form>
-        <input type="search" placeholder="Search..." onChange={getValue} />
+        <input
+          type="search"
+          placeholder="Search..."
+          autoFocus={true}
+          onChange={getValue}
+        />
       </form>
     </div>
   );

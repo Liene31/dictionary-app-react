@@ -10,7 +10,9 @@ export default function App() {
           <img src={dictionary} alt="dictionary" class="rounded" />
           <h1>Dictionary</h1>
         </header>
-        <Dictionary />
+        <main>
+          <Dictionary />
+        </main>
         <footer>
           <a
             href="https://github.com/Liene31/dictionary-app-react"
