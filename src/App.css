@@ -5,7 +5,12 @@
   width: 80px;
 }
 
-.App h1 {
+.App h1, footer{
   text-align: center;
   font-size: 20px;
+}
+
+.App footer {
+  text-align: center;
+  margin: 20px;
 }
