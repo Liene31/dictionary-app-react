@@ -13,7 +13,7 @@ export default function App() {
         <Dictionary />
         <footer>
           <a
-            href="https://github.com/Liene31/weather-app-react"
+            href="https://github.com/Liene31/dictionary-app-react"
             target="_blank"
             rel="noreferrer"
           >
