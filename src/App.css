@@ -1,18 +1,8 @@
-.App header {
-  text-align: center;
-}
-
-.App img {  
-  margin: 20px auto;
-  width: 60px;
-  border-radius: 34px;
-}
-
 .App h1 {  
-  font-size: 30px;
-  display: inline;  
+  text-align: center;
+  font-size: 65px;  
   font-family: 'Great Vibes', cursive;
-  margin-left: 15px;
+  margin-top: 35px;
 }
 
 .App footer {
