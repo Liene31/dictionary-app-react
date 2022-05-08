@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import ReactAudioPlayer from "react-audio-player";
+import "./Phonetics.css";
 
 export default function Phonetics(props) {
   const [play, setPlay] = useState(false);

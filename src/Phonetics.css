@@ -1,0 +1,8 @@
+.Phonetics p {
+  display: inline;
+}
+
+.Phonetics button {
+  border: none;
+  background-color: #F56D91;
+}
