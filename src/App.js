@@ -9,7 +9,7 @@ export default function App() {
           <h1>Dictionary</h1>
         </header>
         <main>
-          <Dictionary keyword={"joy"} />
+          <Dictionary keyword={"summer"} />
         </main>
         <footer>
           <a
