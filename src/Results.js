@@ -3,8 +3,7 @@ import Phonetics from "./Phonetics";
 import Meanings from "./Meanings";
 import "./Results.css";
 
-export default function Results(props) {
-  console.log(props.results);
+export default function Results(props) {  
   if (props.results) {
     return (
       <div className="Results">
