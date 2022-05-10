@@ -1,0 +1,13 @@
+
+.Synonyms .synonym {
+  color: #476072;
+  font-weight:600;
+  font-style: italic;
+  padding-left: 10px;
+}
+
+.Synonyms .synonym-example {
+  font-style: italic;
+  color: #476072;
+  padding-left: 10px;
+}
